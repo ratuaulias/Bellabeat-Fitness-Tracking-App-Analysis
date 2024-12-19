@@ -1,5 +1,6 @@
 # Bellabeat Fitness Tracking App Analysis
-This analysis is an optional Capstone project from the [Google Data Analytics Professional Certificate on Coursera] (https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics)
+This analysis is an optional Capstone project from the [Google Data Analytics Professional Certificate on Coursera](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics)
+
 
 #### Background:
 Bellabeat is a high-tech manufacturer of beautifully-designed health-focused smart products for women since 2013. Inspiring and empowering women with knowledge about their own health and habits, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for females.
